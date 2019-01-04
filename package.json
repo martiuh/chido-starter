@@ -1,0 +1,17 @@
+{
+  "name": "chido-starter",
+  "version": "0.5.0",
+  "description": "starter example for chido hybrid starter",
+  "main": "index.js",
+  "author": "Tona González <martiuh@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-helmet": "^5.2.0"
+  },
+  "scripts": {
+    "start": "chido start"
+  }
+}

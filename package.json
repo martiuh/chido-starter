@@ -7,7 +7,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "chido": "^0.5.4",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-helmet": "^5.2.0"

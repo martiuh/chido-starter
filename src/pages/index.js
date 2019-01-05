@@ -37,7 +37,7 @@ export default class extends React.Component {
               description: 'Dinapedia!!!'
             }]}
           />
-          <h1>Cool Animation Anime!!!</h1>
+          <h1>Anime!!!</h1>
           <div className='recommendations'>
             {focusedRecommendations.map(anime => {
               if (typeof anime === 'number') {

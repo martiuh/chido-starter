@@ -1,9 +1,6 @@
 node_modules
 public
-.routes
-yarn-error.log
+*.log
 public
-*.zip
-.dinas/routes/**
-.chido-app
+.app
 ### Ignore things

@@ -1,5 +1,4 @@
 import React from 'react'
-import Link from 'dinastico-link'
 import Helmet from 'react-helmet'
 import animeapi from '../animeapi'
 
@@ -37,7 +36,7 @@ export default class extends React.Component {
               description: 'Dinapedia!!!'
             }]}
           />
-          <h1>Anime!!!</h1>
+          <h1>Anime Para Todos!!!</h1>
           <div className='recommendations'>
             {focusedRecommendations.map(anime => {
               if (typeof anime === 'number') {

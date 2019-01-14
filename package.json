@@ -7,11 +7,12 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3",
     "react-helmet": "^5.2.0"
   },
   "scripts": {
-    "start": "chido start"
+    "start": "chido start",
+    "build": "chido build"
   }
 }
